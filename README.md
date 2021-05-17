@@ -21,6 +21,11 @@ fingerprint recognition using machine learning and deep learning
 ```
 Fingerprint Recognition
 ├── README.md
+├── code
+│   ├───fingerprint_cb.ipynb
+│   ├───fingerprint_cnn.ipynb
+│   └───fingerprint_rf.ipynb
+│
 ├── data
 │   ├───test
 │   └───train
@@ -34,9 +39,5 @@ Fingerprint Recognition
 │   ├───result_cb.csv
 │   ├───result_cnn.csv
 │   └───result_rf.csv 
-│ 
-├───fingerprint_cb.ipynb
-├───fingerprint_cnn.ipynb
-├───fingerprint_rf.ipynb
 │   
 ```
