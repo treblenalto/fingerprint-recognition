@@ -1,7 +1,7 @@
 # Fingerprint-Recognition
 
 ## Overview
-Fingerprint classification using Random Forest, Catboost, and CNN 
+Fingerprint image classification using Random Forest, Catboost, and CNN 
 
 ## Data
 
