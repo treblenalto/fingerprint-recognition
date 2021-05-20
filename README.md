@@ -1,5 +1,7 @@
 # Fingerprint-Recognition
-fingerprint recognition using machine learning and deep learning
+
+## Overview
+Fingerprint classification using Random Forest, Catboost, and CNN 
 
 ## Data
 
@@ -9,7 +11,7 @@ fingerprint recognition using machine learning and deep learning
   ![trainset-image](https://github.com/Taehee-K/Fingerprint-Recognition/blob/main/train.png)
 
 **Test Dataset**
-* 80 images, without label belonging to 8 people in training dataset
+* 80 images, without label
   ![tesetset-image](https://github.com/Taehee-K/Fingerprint-Recognition/blob/main/test.png)
 
 ## Model
