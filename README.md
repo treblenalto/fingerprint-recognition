@@ -1,4 +1,4 @@
-# Fingerprint-Recognition
+# Fingerprint Recognition
 
 ## Overview
 Fingerprint image classification using Random Forest, Catboost, and CNN 
