@@ -19,8 +19,6 @@ Fingerprint image classification using Random Forest, Catboost, and CNN
 * **Catboost Classifier**
 * **Convolutional Neural Net**
 
-All of the models were trained and tested via Tensorflow framework
-
 ## Structure
 ```
 Fingerprint Recognition
